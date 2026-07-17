@@ -36,4 +36,4 @@ Software Engineering student with industry experience building and supporting pr
   <img src="https://github-readme-stats.vercel.app/api?username=buildsbydt&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&bg_color=ffffff&border_color=d0d7de&text_color=1f2328&icon_color=0969da" alt="Builds by DT GitHub statistics" />
 </p>
 
-<sub>Private repository names and code remain private. GitHub may show anonymised private contribution counts when enabled in profile settings.</sub>
+<sub>Private repository names and code remain private but GitHub may show anonymised private contribution counts.</sub>
