@@ -4,13 +4,6 @@
 
 <h1 align="center">BUILDS BY DT</h1>
 
-<p align="center">
-  <strong>SOFTWARE ENGINEER</strong>
-</p>
-
-<p align="center">Building thoughtful, useful software.</p>
-
----
 
 ### About
 
