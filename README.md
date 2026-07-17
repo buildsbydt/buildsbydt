@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/bright-sky.svg" width="100%" alt="A bright blue morning sky with soft clouds" />
+  <img src="assets/cinematic-clouds.jpg" width="100%" alt="Sunlit clouds beneath a bright blue sky" />
 </p>
 
 <h1 align="center">BUILDS BY DT</h1>
@@ -22,4 +22,3 @@ Software Engineering student with industry experience building and supporting pr
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" alt="Datadog" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
-
